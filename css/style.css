@@ -1,0 +1,39 @@
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#fondo{
+    width: 1200px;
+    height: 800px;
+    background-image: url(https://th.bing.com/th/id/OIP.4xWJauU66lQB9Om9z8hcqQHaF3?rs=1&pid=ImgDetMain);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    font-size: 5rem;
+    color: #ffffff;
+    text-align: center;
+    padding: 5rem;
+}
+body{
+    background-color: rgba(45, 59, 99, 0.966);
+}
+h2{
+    font-size: 4rem;
+    color: #010538;
+    text-align: center;
+    padding: 4rem;
+}
+h3{
+    font-size: 2rem;
+    color: #ffffff;
+    text-align: center;
+    padding: 2rem;
+}
+.yo{
+    width: 20rem;
+    height: auto;
+    border-radius: 100%;
+}
